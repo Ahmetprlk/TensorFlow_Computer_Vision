@@ -5,7 +5,7 @@ from tensorflow.keras.layers import Conv2D, Input, Dense, MaxPool2D, BatchNormal
 from tensorflow.python.keras import activations
 
 from models import functional_model, MyCustomModel
-from my_utils import display_some_examples
+from utils import display_some_examples
 
 
 # tensorflow.keras.Sequential
